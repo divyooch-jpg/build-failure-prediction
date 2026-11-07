@@ -1,0 +1,23 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.7883,
+      "precision": 0.7897,
+      "recall": 0.7763,
+      "f1": 0.7829
+    },
+    "Random Forest": {
+      "accuracy": 0.7533,
+      "precision": 0.7579,
+      "recall": 0.7322,
+      "f1": 0.7448
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.7583,
+      "precision": 0.7604,
+      "recall": 0.7424,
+      "f1": 0.7513
+    }
+  },
+  "best_model": "Logistic Regression"
+}
